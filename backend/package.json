@@ -12,5 +12,8 @@
   "description": "",
   "dependencies": {
     "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
   }
 }
